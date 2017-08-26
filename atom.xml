@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>DxjBlog</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-08-26T00:48:49.833Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>DongXiaoJie6_6</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>DxjBlog Test</title>
+    <link href="http://yoursite.com/2017/08/25/DxjBlog-Test/"/>
+    <id>http://yoursite.com/2017/08/25/DxjBlog-Test/</id>
+    <published>2017-08-25T13:30:58.000Z</published>
+    <updated>2017-08-26T00:48:49.833Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Welcome-to-DxjBlog"><a href="#Welcome-to-DxjBlog" class="headerlink" title="Welcome to DxjBlog!"></a>Welcome to DxjBlog!</h1><p>欢迎来到董小杰的个人博客，测试专用。</p>
+<hr>
+<h2 id="内容"><a href="#内容" class="headerlink" title="内容"></a>内容</h2><p>博客有什么用？</p>
+<blockquote>
+<p><strong>Note:</strong></p>
+<ul>
+<li>写下自己的见闻，转发好的文章</li>
+<li>Thinking in programing</li>
+<li>我的CSDN博客<strong>Baidu</strong> 地址 (猛击此处<a href="http://blog.csdn.net/qq_32512727" target="_blank" rel="external">http://example.com/</a></li>
+</ul>
+</blockquote>
+<p>博客如何写？</p>
+<h4 id="Create-a-document"><a href="#Create-a-document" class="headerlink" title=" Create a document"></a><i class="icon-file"></i> Create a document</h4><p>The document panel is accessible using the <i class="icon-folder-open"></i> button in the navigation bar. You can create a new document by clicking <i class="icon-file"></i> <strong>New document</strong> in the document panel.</p>
+<h4 id="Switch-to-another-document"><a href="#Switch-to-another-document" class="headerlink" title=" Switch to another document"></a><i class="icon-folder-open"></i> Switch to another document</h4><p>All your local documents are listed in the document panel. You can switch from one to another by clicking a document in the list or you can toggle documents using <kbd>Ctrl+[</kbd> and <kbd>Ctrl+]</kbd>.</p>
+<h4 id="Rename-a-document"><a href="#Rename-a-document" class="headerlink" title=" Rename a document"></a><i class="icon-pencil"></i> Rename a document</h4><p>You can rename the current document by clicking the document title in the navigation bar.</p>
+<h4 id="Delete-a-document"><a href="#Delete-a-document" class="headerlink" title=" Delete a document"></a><i class="icon-trash"></i> Delete a document</h4><p>You can delete the current document by clicking <i class="icon-trash"></i> <strong>Delete document</strong> in the document panel.</p>
+<h4 id="Export-a-document"><a href="#Export-a-document" class="headerlink" title=" Export a document"></a><i class="icon-hdd"></i> Export a document</h4><p>You can save the current document to a file by clicking <i class="icon-hdd"></i> <strong>Export to disk</strong> from the <i class="icon-provider-stackedit"></i> menu panel.</p>
+<blockquote>
+<p><strong>Tip:</strong> Check out the <a href="#publish-a-document"><i class="icon-upload"></i> Publish a document</a> section for a description of the different output formats.</p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Welcome-to-DxjBlog&quot;&gt;&lt;a href=&quot;#Welcome-to-DxjBlog&quot; class=&quot;headerlink&quot; title=&quot;Welcome to DxjBlog!&quot;&gt;&lt;/a&gt;Welcome to DxjBlog!&lt;/h1&gt;&lt;p&gt;欢迎来到
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
